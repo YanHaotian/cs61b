@@ -1,2 +1,2 @@
 # cs61b
-This is a repository of where I upload my cs61b homeworks.
+This is a repository where I upload my cs61b homework.
